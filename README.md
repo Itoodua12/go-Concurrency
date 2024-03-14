@@ -3,7 +3,7 @@ This repository provides a collection of practical exercises and code examples d
 
 ## Goroutiness are not synced.
 
-![not sync](concurrency.png)
+![alt text](concurrency.png)
 
 ## Channels
 
@@ -12,8 +12,7 @@ This repository provides a collection of practical exercises and code examples d
 ### require knowledge of each other. So in order for our goroutines to communicate
 ### we can have them reference the same place in memory which is where a channel would reside.
 
-![channel](../channel.svg)
-
+![alt text](<concurrency 1.png>)
 
 
 
